@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16ab0364-8439-4af8-9154-9f6a30079e24/deploy-status)](https://app.netlify.com/sites/vigorous-swirles-0f37c9/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
